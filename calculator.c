@@ -12,6 +12,8 @@ int main(){
     printf("%2.f - %2.f=%f\n",num1,num2,result);
     result=num1*num2;
     printf("%2.f*%2.f\n",num1,num2,result);
+    result =num1/num2;
+    printf("%2.f / %2.f\n",num1,num2,result);
 
 
 
