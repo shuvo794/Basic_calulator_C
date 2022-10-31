@@ -7,7 +7,8 @@ int main(){
     float num1,num2,result;
  
     result=num1+num2;
-    scanf(""); 
+    
+    scanf("%f  %f",&num1,num2); 
 
 
     return 0;
